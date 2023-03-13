@@ -22,14 +22,18 @@
       "Dragon"
     ],
     "linkDeviceName": "kevkat",
-    "robotName": "MediumKat",
-    "robotGitFile": "MediumKat.xml",
-    "robotGit": "https://github.com/OperationSmallKat/greycat.git"
+    "robotName": "Andy",
+    "robotGitFile": "Andy.xml",
+    "robotGit": "https://github.com/idonojace/Andy.git"
   },
   "studio-open-git": {
     "https://gist.github.com/919e820ab39d2b17fec73676295df36d.git:DebuggingBowlerStudio.groovy": [
       "https://gist.github.com/919e820ab39d2b17fec73676295df36d.git",
       "DebuggingBowlerStudio.groovy"
+    ],
+    "https://github.com/idonojace/Andy.git:Andy.xml": [
+      "https://github.com/idonojace/Andy.git",
+      "Andy.xml"
     ]
   },
   "BowlerStudioConfigs": {
