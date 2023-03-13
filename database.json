@@ -3,6 +3,10 @@
     "https://github.com/idonojace/jacecat.git": [
       "https://github.com/idonojace/jacecat.git",
       "1678667013889"
+    ],
+    "https://gist.github.com/919e820ab39d2b17fec73676295df36d.git": [
+      "https://gist.github.com/919e820ab39d2b17fec73676295df36d.git",
+      "1678669895774"
     ]
   },
   "studio-open-web": {},
@@ -18,7 +22,12 @@
     "robotGitFile": "MediumKat.xml",
     "robotGit": "https://github.com/OperationSmallKat/greycat.git"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://gist.github.com/919e820ab39d2b17fec73676295df36d.git:DebuggingBowlerStudio.groovy": [
+      "https://gist.github.com/919e820ab39d2b17fec73676295df36d.git",
+      "DebuggingBowlerStudio.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "tutorialBranch": "deploy",
