@@ -15,6 +15,10 @@
     "https://gist.github.com/919e820ab39d2b17fec73676295df36d.git": [
       "https://gist.github.com/919e820ab39d2b17fec73676295df36d.git",
       "1678669895774"
+    ],
+    "none": [
+      "Project none",
+      "1679190221132"
     ]
   },
   "studio-open-web": {},
@@ -26,14 +30,18 @@
       "Dragon"
     ],
     "linkDeviceName": "kevkat",
-    "robotName": "Andy",
-    "robotGitFile": "Andy.xml",
-    "robotGit": "https://github.com/idonojace/Andy.git"
+    "robotName": "mycat",
+    "robotGitFile": "mycat.xml",
+    "robotGit": "https://github.com/idonojace/mycat.git"
   },
   "studio-open-git": {
     "https://github.com/idonojace/mycat.git:mycat.xml": [
       "https://github.com/idonojace/mycat.git",
       "mycat.xml"
+    ],
+    "none:C:\\Users\\idono\\bowler-workspace\\bowler.history": [
+      "none",
+      "C:\\Users\\idono\\bowler-workspace\\bowler.history"
     ]
   },
   "BowlerStudioConfigs": {
