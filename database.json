@@ -30,7 +30,12 @@
     "robotGitFile": "Andy.xml",
     "robotGit": "https://github.com/idonojace/Andy.git"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "https://github.com/idonojace/mycat.git:mycat.xml": [
+      "https://github.com/idonojace/mycat.git",
+      "mycat.xml"
+    ]
+  },
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "tutorialBranch": "deploy",
