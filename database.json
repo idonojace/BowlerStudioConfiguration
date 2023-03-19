@@ -30,9 +30,9 @@
       "Dragon"
     ],
     "linkDeviceName": "kevkat",
-    "robotName": "mycat",
-    "robotGitFile": "mycat.xml",
-    "robotGit": "https://github.com/idonojace/mycat.git"
+    "robotName": "Andy",
+    "robotGitFile": "Andy.xml",
+    "robotGit": "https://github.com/idonojace/Andy.git"
   },
   "studio-open-git": {
     "https://github.com/idonojace/Andy.git:Andy.xml": [
