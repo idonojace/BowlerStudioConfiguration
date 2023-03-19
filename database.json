@@ -4,6 +4,10 @@
       "https://github.com/idonojace/jacecat.git",
       "1678667013889"
     ],
+    "https://github.com/idonojace/mycat.git": [
+      "https://github.com/idonojace/mycat.git",
+      "1679189249725"
+    ],
     "https://github.com/idonojace/Andy.git": [
       "https://github.com/idonojace/Andy.git",
       "1678669975688"
@@ -26,16 +30,7 @@
     "robotGitFile": "Andy.xml",
     "robotGit": "https://github.com/idonojace/Andy.git"
   },
-  "studio-open-git": {
-    "https://gist.github.com/919e820ab39d2b17fec73676295df36d.git:DebuggingBowlerStudio.groovy": [
-      "https://gist.github.com/919e820ab39d2b17fec73676295df36d.git",
-      "DebuggingBowlerStudio.groovy"
-    ],
-    "https://github.com/idonojace/Andy.git:Andy.xml": [
-      "https://github.com/idonojace/Andy.git",
-      "Andy.xml"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "tutorialBranch": "deploy",
