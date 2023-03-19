@@ -35,6 +35,14 @@
     "robotGit": "https://github.com/idonojace/Andy.git"
   },
   "studio-open-git": {
+    "https://github.com/idonojace/Andy.git:DefaultDhSolver.groovy": [
+      "https://github.com/idonojace/Andy.git",
+      "DefaultDhSolver.groovy"
+    ],
+    "https://github.com/idonojace/BowlerStudioConfiguration.git:database.json": [
+      "https://github.com/idonojace/BowlerStudioConfiguration.git",
+      "database.json"
+    ],
     "https://github.com/idonojace/Andy.git:Andy.xml": [
       "https://github.com/idonojace/Andy.git",
       "Andy.xml"
