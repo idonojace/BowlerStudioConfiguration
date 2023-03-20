@@ -26,9 +26,9 @@
     "gameControllerNames": [
       "Play",
       "Game",
+      "Controller (Xbox One For Windows)",
       "X-Box",
-      "Dragon",
-      "Controller (Xbox One For Windows)"
+      "Dragon"
     ],
     "linkDeviceName": "kevkat",
     "robotName": "Andy",
@@ -37,10 +37,6 @@
   },
   "Controller (Xbox One For Windows)": {},
   "studio-open-git": {
-    "https://github.com/idonojace/Andy.git:DefaultDhSolver.groovy": [
-      "https://github.com/idonojace/Andy.git",
-      "DefaultDhSolver.groovy"
-    ],
     "https://github.com/idonojace/Andy.git:Andy.xml": [
       "https://github.com/idonojace/Andy.git",
       "Andy.xml"
