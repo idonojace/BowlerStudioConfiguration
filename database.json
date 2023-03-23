@@ -28,10 +28,11 @@
       "Game",
       "Controller (Xbox One For Windows)",
       "X-Box",
-      "Dragon"
+      "Dragon",
+      "gamepad"
     ],
     "linkDeviceName": "kevkat",
-    "robotName": "Andy",
+    "robotName": "Andy1",
     "robotGitFile": "Andy.xml",
     "robotGit": "https://github.com/idonojace/Andy.git"
   },
