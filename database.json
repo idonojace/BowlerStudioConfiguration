@@ -26,10 +26,10 @@
     "gameControllerNames": [
       "Play",
       "Game",
+      "gamepad",
       "Controller (Xbox One For Windows)",
       "X-Box",
-      "Dragon",
-      "gamepad"
+      "Dragon"
     ],
     "linkDeviceName": "kevkat",
     "robotName": "Andy1",
