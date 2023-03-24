@@ -29,10 +29,11 @@
       "gamepad",
       "Controller (Xbox One For Windows)",
       "X-Box",
-      "Dragon"
+      "Dragon",
+      "Wire"
     ],
     "linkDeviceName": "kevkat",
-    "robotName": "Andy1",
+    "robotName": "Andy",
     "robotGitFile": "Andy.xml",
     "robotGit": "https://github.com/idonojace/Andy.git"
   },
@@ -51,5 +52,6 @@
     "skinBranch": "0.25.2",
     "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
     "notifiedArduinoDep": true
-  }
+  },
+  "Wire": {}
 }
